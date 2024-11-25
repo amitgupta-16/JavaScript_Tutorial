@@ -1,0 +1,23 @@
+/* h1{
+    color: blue;
+    background-color: yellow;
+}
+
+body{
+    background-color: papayawhip;
+}
+
+button{
+    background-color:blue ;
+    color: white;
+} */
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 1px solid;
+    background-color: lightgreen;
+    text-align: center;
+    margin: 5px;
+
+}
